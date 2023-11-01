@@ -1,4 +1,5 @@
-project('constellation_asio_sd', 'cpp')
+project('constellation_asio_sd', 'cpp',
+    default_options: ['warning_level=everything'])
 
 asio_dep = dependency('asio')
 
