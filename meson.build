@@ -1,5 +1,5 @@
 project('constellation_asio_sd', 'cpp',
-  default_options: ['warning_level=3', 'cpp_std=c++23'],
+  default_options: ['warning_level=3', 'cpp_std=c++20'],
   license: 'EUPL-1.2',
 )
 
