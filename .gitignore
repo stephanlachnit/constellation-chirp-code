@@ -3,3 +3,7 @@
 /subprojects/packagecache/
 /subprojects/asio-*/
 /subprojects/magic_enum-*/
+
+/venv/
+
+/docs/build/
